@@ -27,3 +27,6 @@ print("Porcetaje c_semana",Porcen(sc,t))
 tm.sleep(10)
 
 print("CHAUUU")
+h=Porcen(sp,t)
+
+print(h)
