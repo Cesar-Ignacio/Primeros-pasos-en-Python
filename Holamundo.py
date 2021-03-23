@@ -7,7 +7,7 @@ num2= int (input("ingrese segundo numero:"))
 
 suma= num1+num2
 
-if suma>18:
+if suma>100:
 
     print ("EL SUMA EL MAYOR A 100")
 
